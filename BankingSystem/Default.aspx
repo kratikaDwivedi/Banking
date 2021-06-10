@@ -62,7 +62,7 @@
                             <p>
                                 Make A Payment</p>
                             <p>
-                                <a class="btn btn-lg btn-primary" href="Transfer.aspx" role="button">Transaction Now</a></p>
+                                <a class="btn btn-lg btn-primary" href="Transfer1.aspx" role="button">Transaction Now</a></p>
                         </div>
                     </div>
                      <div class="item">
@@ -73,7 +73,7 @@
                             <p>
                                 Make A Payment</p>
                             <p>
-                                <a class="btn btn-lg btn-primary" href="Transfer.aspx" role="button">Transaction Now</a></p>
+                                <a class="btn btn-lg btn-primary" href="Transfer1.aspx" role="button">Transaction Now</a></p>
                         </div>
                     </div>
                     <div class="item">
@@ -84,7 +84,7 @@
                             <p>
                                 Make A Payment</p>
                             <p>
-                                <a class="btn btn-lg btn-primary" href="Transfer.aspx" role="button">Transaction Now</a></p>
+                                <a class="btn btn-lg btn-primary" href="Transfer1.aspx" role="button">Transaction Now</a></p>
                         </div>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                     Make payment
                 </p>
                 <p>
-                    <a class="btn btn-default " href="Transfer.aspx" role="button">View More &raquo;</a></p>
+                    <a class="btn btn-default " href="Transfer1.aspx" role="button">View More &raquo;</a></p>
             </div>
            
                     <div class="col-lg-4">
@@ -121,7 +121,7 @@
                 <p>
                     Details about old transaction....</p>
                 <p>
-                    <a class="btn btn-default " href="PaymentHistory.aspx" role="button">View More &raquo;</a></p>
+                    <a class="btn btn-default " href="Paymentt.aspx" role="button">View More &raquo;</a></p>
             </div>
              </div>
     </div>
